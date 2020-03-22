@@ -1,0 +1,8 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\bin\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.deps.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\bin\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\bin\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\obj\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.csprojAssemblyReference.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\obj\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.AssemblyInfoInputs.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\obj\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.AssemblyInfo.cs
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\obj\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi3\AdvanceWebApi3.Datalayer\obj\Debug\netcoreapp3.1\AdvanceWebApi3.Datalayer.pdb
